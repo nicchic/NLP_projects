@@ -7,7 +7,6 @@ Sentiment analysis implementation for psychological and financial data using bas
 - `financialSentiment_distilbert.ipynb` - Financial sentiment analysis using DistilBERT
 - `financialSentiment_naive.ipynb` - Naive Bayes approach for financial sentiment
 - `word2vec.py` - Word2Vec implementation for text embeddings
-- `README.md` - Project documentation
 
 
 Run the Jupyter notebooks to see different approaches:

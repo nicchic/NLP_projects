@@ -1,4 +1,4 @@
-# NLP Sentiment Analysis Project
+# 📝 NLP Sentiment Analysis Project
 
 Sentiment analysis implementation for psychological and financial data using basic LLM models.
 
@@ -9,9 +9,9 @@ Sentiment analysis implementation for psychological and financial data using bas
 - `word2vec.py` - Word2Vec implementation for text embeddings
 
 
-Run the Jupyter notebooks to see different approaches:
+## Models Used
 
-- **LDA Topic Modeling**: Open `LDA_mental.ipynb` for mental health data analysis
-- **DistilBERT**: Run `financialSentiment_distilbert.ipynb` for transformer-based financial sentiment
-- **Naive Bayes**: Execute `financialSentiment_naive.ipynb` for baseline comparison
-- **Word Embeddings**: Use `word2vec.py` for generating text representations
+- **LDA (Latent Dirichlet Allocation)** - Topic modeling for psychological data
+- **DistilBERT** - Transformer model for financial sentiment
+- **Naive Bayes** - Traditional ML approach for comparison
+- **Word2Vec** - Word embeddings for feature extraction

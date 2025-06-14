@@ -11,7 +11,8 @@ Sentiment analysis implementation for psychological and financial data using bas
 
 ## Models Used
 
-- **LDA (Latent Dirichlet Allocation)** - Topic modeling for psychological data
-- **DistilBERT** - Transformer model for financial sentiment
-- **Naive Bayes** - Traditional ML approach for comparison
-- **Word2Vec** - Word embeddings for feature extraction
+- **LDA (Latent Dirichlet Allocation)** - Topic modeling for psychological data (probabilistic generative model)
+- **Word2Vec** - Word embeddings for feature extraction (non-transformer)
+- **Naive Bayes** - Traditional ML approach for comparison (probabilistic machine learning algorithm)
+- **DistilBERT** - Transformer model for financial sentiment (encoder only)
+
